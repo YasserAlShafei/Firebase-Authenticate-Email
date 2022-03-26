@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>88176189731-6v01djqot8l9kfm955cssr7n8ut7tki4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.88176189731-6v01djqot8l9kfm955cssr7n8ut7tki4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>88176189731-o7b3skgacmq4nejq3r1l24rcn9qkl9m0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC7WnPDjV-OglIntue_OZKAH4XdKfWZLxw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>88176189731</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mac.Yasser.iOSApp.Authenticate-Using-Email</string>
+	<key>PROJECT_ID</key>
+	<string>ass-firebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ass-firebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:88176189731:ios:a45405d27a254612c3ec96</string>
+	<key>DATABASE_URL</key>
+	<string>https://ass-firebase.firebaseio.com</string>
+</dict>
+</plist>

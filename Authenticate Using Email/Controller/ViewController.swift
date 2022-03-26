@@ -7,13 +7,18 @@
 
 import UIKit
 
-class ViewController: UIViewController {
 
+
+class ViewController: UIViewController {
+    
+    @IBOutlet weak var lbldata: UILabel!
+    var data: String?
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
+    
 }
 
